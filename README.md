@@ -1,4 +1,4 @@
-# Hi, I'am Artem 👋
+# Hi, I'm Artem 👋
 *Frontend Developer*
 
 [![](https://img.shields.io/badge/-Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/nestlee_q) [![](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github)](https://github.com/nestleeqx) ![Email](https://img.shields.io/badge/Email-nestleeqx%40yandex%2Ecom-EA4335?style=flat-square&logo=gmail&logoColor=white)
